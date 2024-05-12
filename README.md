@@ -1,1 +1,2 @@
-# Udacity-ML-Projects
+# MachineLearningProjects
+Udacity ML
